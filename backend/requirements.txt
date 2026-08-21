@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+tripo3d
+pydantic
+python-dotenv
